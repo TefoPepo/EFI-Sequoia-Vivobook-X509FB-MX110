@@ -11,7 +11,7 @@ EFI hackintosh for Asus Vivobook X509FB with Nvidia MX110 (disabled).
 
 <div align="center">
 
-<img width="1920" height="1080" alt="Captura de pantalla 2025-08-08 a la(s) 5 32 04 p  m" src="https://github.com/user-attachments/assets/d669a685-6def-4d22-807e-666381788021" />
+<img width="1366" height="768" alt="Captura de pantalla 2026-06-22 a la(s) 4 11 38 p  m" src="https://github.com/user-attachments/assets/5c97a5c3-7c2c-42e7-a868-e1cf3b43e5cd" />
 
 </div>
 
