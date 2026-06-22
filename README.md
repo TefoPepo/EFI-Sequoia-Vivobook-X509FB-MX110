@@ -5,7 +5,7 @@ EFI hackintosh for Asus Vivobook X509FB with Nvidia MX110 (disabled).
 
 | OpenCore  | macOS   |
 | --------  | ------- |
-|   1.0.5   | Sequoia 15.6 (Use SMBIOS ```MacBookPro15,3```) |
+|   1.0.7   | Sequoia 15.7.7 (Use SMBIOS ```MacBookPro15,3```) |
 
 ## Screenshots
 
@@ -26,10 +26,10 @@ EFI hackintosh for Asus Vivobook X509FB with Nvidia MX110 (disabled).
 | ``eGPU``| Nvidia MX110 2GB GDDR5 | Disabled with -wegnoegpu |
 | ``Disk``| SSD NVMe SK Hynix 128GB | NVMe Fix kext |
 | ``Fingerprint`` | Synaptics FP Sensors | Not working in macOS. |
-| ``Wifi``| Realtek RTL8821ce | (Not working) Using Archer T2U Plus dongle, configured with [Chris111's driver](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter). | 
+| ``Wifi``| Realtek RTL8821ce | ~~(Not working) Using Archer T2U Plus dongle, configured with [Chris111's driver](https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter).~~ NOW NATIVE WIFI IS WORKING, BLUETOOTH STILL FAILING:( | 
 | ``Audio``| Realtek ALC256 | Add `alcid=66` to boot-arg or add layout-id to DeviceProperties. |
 
 ## Recommendations
 
-Get a cheap Intel WiFi card from AliExpress, like 7260NGW or 7265NGW. 
+~~Get a cheap Intel WiFi card from AliExpress, like 7260NGW or 7265NGW.~~ 
 
